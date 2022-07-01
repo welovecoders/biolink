@@ -3,4 +3,4 @@ Static design for embedding links in your social media profile. It's an open sou
 
 ## Screenshots
 
-![alt text](https://github.com/[welovecoders]/[biolink]/blob/[branch]/demo-img.png?raw=true)
+![Demo image File](https://github.com/welovecoders/biolink/blob/master/demo-img.png?raw=true)
