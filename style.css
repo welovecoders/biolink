@@ -252,8 +252,7 @@ body {
 
 .user-info-box {
   display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
+  /* justify-content: flex-end; */
   padding: 2rem 0 2rem 0;
 }
 
@@ -333,11 +332,12 @@ body {
     .user-info-box {
       order: 2;
       /* border: 1px solid purple; */
-      justify-content: flex-start;
-      align-items: flex-end;
-      width: 20rem;
+      /* justify-content: flex-start; */
+      align-items: flex-start;
+      /* width: 20rem; */
       flex:1;
-      padding: .2rem 0 .2rem 0;
+      padding: 1rem 0 .2rem 0;
+      margin-left: 125px;
     }
 
     .links-container {
@@ -362,7 +362,7 @@ body {
 .user-info{
     display: flex;
     align-items: center;
-    margin-bottom: 3px;
+    padding: 0 15px;
 }
 .user-info a{
   display: flex;
@@ -373,6 +373,5 @@ body {
     font-size: 24px;
     display: inline-block;
     color: #f4d16d;
-    margin-right: 6px;
     width: 24px;
 }
